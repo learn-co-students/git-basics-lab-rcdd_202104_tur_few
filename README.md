@@ -49,7 +49,8 @@ this lab
   3) has a README.md file in the my-repository folder
 
 the local repository
-  4) has README.md as a tracked file
+  4) has README.m
+  d as a tracked file
   5) has at least one commit
   6) has been pushed up to the remote repository
 
