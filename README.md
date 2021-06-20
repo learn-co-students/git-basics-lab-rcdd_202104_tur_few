@@ -1,4 +1,4 @@
-# Git Basics Lab
+~ $ mkdir my-git-project# Git Basics Lab
 
 ## Learning Goals
 
